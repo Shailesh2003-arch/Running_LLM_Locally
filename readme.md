@@ -15,7 +15,7 @@
 
 First, clone this repository and install the Python dependencies listed in `requirements.txt`.
 
-````bash
+```bash
 git clone https://github.com/Shailesh2003-arch/Running_LLM_Locally.git
 cd Running_LLM_Locally
 
@@ -30,7 +30,7 @@ using the command :
 
 ```bash
 docker pull ghcr.io/open-webui/open-webui:main
-````
+```
 
 ![Pull image from dockerhub](src/assets/images/pull_OpenWebUI.png)
 
