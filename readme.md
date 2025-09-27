@@ -31,3 +31,9 @@ docker run -d -p 3000:8080 -v open-webui:/app/backend/data --name open-webui ghc
 ```
 
 ![Run the container](src/assets/images/run_OpenWebUI.png)
+
+After successfull run of the ollama container you'll see something as:
+![Running backend of Ollama on Port localhost:11434](src/assets/images/localhost_running.png)
+
+After successfull run of the OpenWebUI container you'll see something as:
+![Running User-Interface of OpenWebUI on Port localhost:3000](src/assets/images/OpenWebUI_running.png)
