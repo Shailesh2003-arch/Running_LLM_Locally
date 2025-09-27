@@ -20,7 +20,7 @@ using the command :
 docker pull ghcr.io/open-webui/open-webui:main
 ```
 
-![Pull image from dockerhub](src/assets/images/pull_openWebUI.png)
+![Pull image from dockerhub](src/assets/images/pull_OpenWebUI.png)
 
 step 2: Run the Container.
 Run the container with default settings. This command includes a volume mapping to ensure persistent data storage.
