@@ -21,6 +21,7 @@ cd Running_LLM_Locally
 
 # Install requirements
 pip install -r requirements.txt
+```
 
 ## Precise instructions: step-by-step guide to install OpenWebUI on Docker
 
